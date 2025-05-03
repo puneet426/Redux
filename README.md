@@ -1,5 +1,5 @@
 
-# 🔁 Redux Toolkit + React – Complete Guide with Code and Theory
+# 🔁 Redux Toolkit
 
 This README is **source to revise Redux Toolkit** using React JS. It explains everything — from setup to usage — with theoretical concepts, flowchart, and code in one place.
 
